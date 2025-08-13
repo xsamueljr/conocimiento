@@ -11,7 +11,7 @@ Y como todas las tecnologías esto fue volviéndose más accesible, y a día de 
 Ahí está la magia de Internet. En el mundo hay diferentes tipos de redes, más grandes o más pequeñas, de hecho tenemos una lista de tipos y su alcance:
 
 - LAN: Local Access Network. Alcance local. Puede ser una casa o apartamento
-- MAN:
+- MAN: Metropolitan Access Network. Una ciudad o pueblo
 - WAN: Wide / World-wide Access Network. Alcance amplio, o directamente del mundo entero, como puede ser Internet
 
 Y es gracias a la colaboración de todas las redes juntas que hemos llegado a algo como Internet. No existen conexiones directas para todos los puntos, pero sí existen redes suficientes para poder llegar de A a B dando más saltos o menos, pasando por más redes diferentes o menos, pero se llega
